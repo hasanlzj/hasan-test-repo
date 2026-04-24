@@ -1,1 +1,0 @@
-console.log("Hello, this is a JavaScript file linked to index.html!");
